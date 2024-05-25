@@ -1,5 +1,5 @@
 # FundInvestGuide
-An easy resolution to your FundInvestment
+An easy solution to your FundInvestment
 
 基金投资指导员提供如下功能：
 1. 当前热门基金
